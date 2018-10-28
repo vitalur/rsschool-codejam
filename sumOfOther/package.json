@@ -1,0 +1,7 @@
+{
+  "name": "sumOfOthers",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "mocha test.js"
+  }
+}
